@@ -1,0 +1,21 @@
+#welcome{
+    background:linear-gradient(blue 0%, red 100%);
+}
+body{
+    text-align:center ;
+}
+#menu{
+    list-style:none ;
+    cursor:pointer ;
+    z-index:10;
+}
+.link{
+    float:left;
+    padding:10px;
+    font-size:20px ;
+    color:black !important;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+.link a {
+    text-decoration:none ;
+}
